@@ -9,7 +9,7 @@ var yog = require('yog2-kernel');
 var {{-upper-file_name-}}Model = yog.require('{{-_namespace-}}/model{{-page_name-}}.js');
 
 /**
- * {{-api_name-}} 处理器
+ * {{-page_name-}} 处理器
  * @param  {[type]}   req
  * @param  {[type]}   res
  * @param  {Function} next
